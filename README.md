@@ -29,19 +29,19 @@
 <img width="1384" alt="KakaoTalk_Photo_2022-08-25-17-17-35" src="https://user-images.githubusercontent.com/95601414/186614486-b0700827-e6f4-4e74-ade6-7495a5122f3d.png">
 
 > 2 - 4 동작 흐름
-> ![image](https://user-images.githubusercontent.com/95601414/186613924-29492e03-a975-4722-a06a-cc7c03cdf1a0.png)
+![image](https://user-images.githubusercontent.com/95601414/186613924-29492e03-a975-4722-a06a-cc7c03cdf1a0.png)
 
 ### 3. 아키텍처
-> ![image](https://user-images.githubusercontent.com/95601414/186613878-5111f1e5-50d6-425f-861c-1480b86b6211.png)
+![image](https://user-images.githubusercontent.com/95601414/186613878-5111f1e5-50d6-425f-861c-1480b86b6211.png)
 
 ### 4. 향수 소스 데이터
 > 셀레니움 라이브러리를 이용한 크롤링
 > 대략 25000개의 향수 데이터를 확보함
-> ![image](https://user-images.githubusercontent.com/95601414/186613992-2875e498-3b87-45df-9ff9-396a1677e463.png)
-> ![image](https://user-images.githubusercontent.com/95601414/186614027-9ccb836a-910b-493f-9f6b-68cf27c730ad.png)
+![image](https://user-images.githubusercontent.com/95601414/186613992-2875e498-3b87-45df-9ff9-396a1677e463.png)
+![image](https://user-images.githubusercontent.com/95601414/186614027-9ccb836a-910b-493f-9f6b-68cf27c730ad.png)
 
 ### 5. 알고리즘
-> ![image](https://user-images.githubusercontent.com/95601414/186614105-4334edf1-6ff5-41eb-9353-edebefe8d55d.png)
+![image](https://user-images.githubusercontent.com/95601414/186614105-4334edf1-6ff5-41eb-9353-edebefe8d55d.png)
 
 > 코사인 유사도에 기반한 cbf 알고리즘
 > 벡터 간의 거리 차에 기반하여 Features로 이루어진 벡터들 간의 유사도를 구할 수 있다
