@@ -2,9 +2,9 @@
 
 ### 1. 서비스 소개
 
-<img width="973" alt="스크린샷 2022-08-25 오후 5 30 26" src="https://user-images.githubusercontent.com/95601414/186616295-0af7ab5f-141b-4696-baa6-ee3fa03c2c80.png">
-<img width="982" alt="스크린샷 2022-08-25 오후 5 30 17" src="https://user-images.githubusercontent.com/95601414/186616314-ba377d44-0987-49d2-afa3-4b2ba6ac729d.png">
 <img width="655" alt="스크린샷 2022-08-25 오후 5 24 49" src="https://user-images.githubusercontent.com/95601414/186616320-fc501eb1-31b0-4c63-9337-f1a904f8a54b.png">
+<img width="982" alt="스크린샷 2022-08-25 오후 5 30 17" src="https://user-images.githubusercontent.com/95601414/186616314-ba377d44-0987-49d2-afa3-4b2ba6ac729d.png">
+<img width="973" alt="스크린샷 2022-08-25 오후 5 30 26" src="https://user-images.githubusercontent.com/95601414/186616295-0af7ab5f-141b-4696-baa6-ee3fa03c2c80.png">
 
 
 ### 2. 세부 기능 설명
