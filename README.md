@@ -16,18 +16,22 @@
 
 ### 2. 세부 기능 설명
 
-> 2 -1 향수 관련 용어 사전
+> 2 - 1 메인 페이지
+<img width="1440" alt="스크린샷 2022-08-25 오후 5 54 08" src="https://user-images.githubusercontent.com/95601414/186621130-ef3e9a00-aee8-44ef-94f6-c958b065dea3.png">
+
+> 2 -2 향수 관련 용어 사전
 <img width="980" alt="스크린샷 2022-08-25 오후 5 14 45" src="https://user-images.githubusercontent.com/95601414/186612614-e2ab5d5c-5aec-426b-ae85-fd9b07db9191.png">
 
-> 2- 2 특정 향수와 비슷한 향수 찾기
+> 2- 3 특정 향수와 비슷한 향수 찾기
 <img width="553" alt="스크린샷 2022-08-25 오후 5 14 58" src="https://user-images.githubusercontent.com/95601414/186612679-00c03c80-2f42-429d-88ab-20ecb0f8c6f8.png">
 
 <img width="455" alt="스크린샷 2022-08-25 오후 5 15 02" src="https://user-images.githubusercontent.com/95601414/186612709-88916d1e-997f-484a-a12f-d2fef09cc660.png">
 
-> 2 - 3 향수 검색하기
+> 2 - 4 향수 검색하기
 <img width="456" alt="스크린샷 2022-08-25 오후 5 15 05" src="https://user-images.githubusercontent.com/95601414/186612741-3a9dcfe1-5400-45cc-8ac7-b67da6ddd6ae.png">
 
-> 2 - 4 질문으로 향수 추천받기
+> 2 - 5 질문으로 향수 추천받기
+<img width="317" alt="스크린샷 2022-08-25 오후 5 55 18" src="https://user-images.githubusercontent.com/95601414/186621306-24e62322-3885-4750-848c-1ec3c0537314.png">
 <img width="1028" alt="스크린샷 2022-08-25 오후 5 19 09" src="https://user-images.githubusercontent.com/95601414/186614300-f8448d45-e014-48c7-a543-a658f00024ed.png">
 <img width="1023" alt="스크린샷 2022-08-25 오후 5 19 46" src="https://user-images.githubusercontent.com/95601414/186614335-a6ebb4de-f478-4bd5-b7c3-55bbdf898c54.png">
 <img width="1024" alt="스크린샷 2022-08-25 오후 5 19 59" src="https://user-images.githubusercontent.com/95601414/186614339-551e6a40-76bf-4b23-aa9c-22b382e6b237.png">
@@ -38,7 +42,7 @@
 <img width="952" alt="스크린샷 2022-08-25 오후 5 21 04" src="https://user-images.githubusercontent.com/95601414/186614356-edf0849f-c447-41aa-ae37-529aadfb77d7.png">
 <img width="1384" alt="KakaoTalk_Photo_2022-08-25-17-17-35" src="https://user-images.githubusercontent.com/95601414/186614486-b0700827-e6f4-4e74-ade6-7495a5122f3d.png">
 
-> 2 - 4 동작 흐름
+> 2 - 5 동작 흐름
 ![image](https://user-images.githubusercontent.com/95601414/186613924-29492e03-a975-4722-a06a-cc7c03cdf1a0.png)
 
 <br>
