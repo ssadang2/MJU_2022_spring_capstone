@@ -2,10 +2,16 @@
 
 ### 1. 서비스 소개
 
+* 선호하는 향, 원하는 브랜드의 가치, 원하는 지속성, 원하는 계절감 총 4개의 질문을 사용자에게 하고
+* 이를 기반으로 사용자에게 적합한 향수를 추천해주는 서비스입니다.
+
 <img width="655" alt="스크린샷 2022-08-25 오후 5 24 49" src="https://user-images.githubusercontent.com/95601414/186616320-fc501eb1-31b0-4c63-9337-f1a904f8a54b.png">
 <img width="982" alt="스크린샷 2022-08-25 오후 5 30 17" src="https://user-images.githubusercontent.com/95601414/186616314-ba377d44-0987-49d2-afa3-4b2ba6ac729d.png">
 <img width="973" alt="스크린샷 2022-08-25 오후 5 30 26" src="https://user-images.githubusercontent.com/95601414/186616295-0af7ab5f-141b-4696-baa6-ee3fa03c2c80.png">
 
+<br>
+<br>
+<br>
 
 ### 2. 세부 기능 설명
 
@@ -34,11 +40,17 @@
 > 2 - 4 동작 흐름
 ![image](https://user-images.githubusercontent.com/95601414/186613924-29492e03-a975-4722-a06a-cc7c03cdf1a0.png)
 
+<br>
+<br>
+<br>
 
 ### 3. 아키텍처
 
 ![image](https://user-images.githubusercontent.com/95601414/186613878-5111f1e5-50d6-425f-861c-1480b86b6211.png)
 
+<br>
+<br>
+<br>
 
 ### 4. 향수 소스 데이터
 
@@ -47,6 +59,9 @@
 ![image](https://user-images.githubusercontent.com/95601414/186613992-2875e498-3b87-45df-9ff9-396a1677e463.png)
 ![image](https://user-images.githubusercontent.com/95601414/186614027-9ccb836a-910b-493f-9f6b-68cf27c730ad.png)
 
+<br>
+<br>
+<br>
 
 ### 5. 알고리즘
 
