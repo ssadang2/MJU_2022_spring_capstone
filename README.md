@@ -1,4 +1,5 @@
 # MJU_2022_spring_capstone
+<hr>
 
 ### 1. 서비스 소개
 
